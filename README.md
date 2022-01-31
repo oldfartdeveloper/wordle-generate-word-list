@@ -27,4 +27,4 @@ To generate the text file containing the 5-letter words:
 1. Run `spago run`
 1. Verify that the file has been generated as `doc/words.txt`.  It should have the current time stamp.
 
-If you haven't already, install the `wordle-solver` which will use this project's generated file.
+If you haven't already, clone and install the `wordle-solver` repo which will use this project's generated file.
